@@ -1,0 +1,15 @@
+Ideas: 
+Show vertical list of all people who reacted (maybe up to 15)
+darker opacity on right click
+darker message hitbox
+hiding names on the right (profile pics)
+channel hover animation scroll
+clearer server dot on left
+custom home logo
+max/min/close physical button background color match text pop down
+
+Fixes:
+Link thumbnail hover flicker 
+
+Other:
+Ask Tropical about support with updates
